@@ -6,5 +6,4 @@ Following are the instructions for how to run code:
 4)To run test cases use following Command
     a)To initialsed package.json : npm init 
     b) Install: npm install --save-dev mocha
-
-    
+    c) Run this command : npm test
